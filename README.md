@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a TA/RA at METU Cognitive Science. I'm also a PhD student there.
+
+My e-mail address: ecenurc@metu.edu.tr
+
 <!--
 **ecenurca/ecenurca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
